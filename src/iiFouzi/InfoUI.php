@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace Ameer4Real;
+namespace iiFouzi;
 
 use pocketmine\Player;
 use pocketmine\Server;
